@@ -1,0 +1,10 @@
+"AddonInfo" 
+{
+	"name"			"Swep generator Info TXT" 
+	"version"		"X"
+	"up_date"		"When it will be done ofcourse" 
+	"author_name"		"TRUCKER" 
+	"author_email"		"truckermassaker@gmail.com" 
+	"author_url"		"www.goodfriends.co.nr" 
+	"info"			"Made with Truckers swep generator" 
+}
