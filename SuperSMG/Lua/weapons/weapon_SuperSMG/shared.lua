@@ -1,4 +1,4 @@
- // TRUCKERS  SWEP CREATOR PROGRAM WAS USED FOR THIS WWW.GOODFRIENDS.CO.NR 
+ // Shadow-guns 
 if ( SERVER ) then
 	AddCSLuaFile( "shared.lua" )
 	SWEP.HoldType			= "ar2" 
@@ -22,7 +22,7 @@ end
  SWEP.FiresUnderwater = true
  SWEP.Weight = 1
  SWEP.DrawCrosshair = true
- SWEP.Category = "SWEPs-created-with-TRUCKERs-SWEP-Creator"
+ SWEP.Category = "Shadow-weapon"
  SWEP.DrawAmmo = true
  SWEP.ReloadSound = Sound("Weapon_SMG1.Reload")
  SWEP.Instructions = "gamerred"
@@ -40,7 +40,7 @@ end
  SWEP.Primary.Automatic = true
  SWEP.Primary.Recoil = 0
  SWEP.Primary.Delay = 1
- SWEP.Primary.Force = 1
+ SWEP.Primary.Force = 0
  SWEP.Secondary.NumbShots = 60
  SWEP.Secondary.Force = 1337
  SWEP.Secondary.Spread = 0
