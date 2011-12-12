@@ -1,10 +1,10 @@
 "AddonInfo" 
 {
-	"name"			"Swep generator Info TXT" 
-	"version"		"X"
+	"name"			"gammerred" 
+	"version"		"4"
 	"up_date"		"When it will be done ofcourse" 
-	"author_name"		"TRUCKER" 
-	"author_email"		"truckermassaker@gmail.com" 
-	"author_url"		"www.goodfriends.co.nr" 
-	"info"			"Made with Truckers swep generator" 
+	"author_name"		"Gamerred" 
+	"author_email"		"gamerredx@gmail.com" 
+	"author_url"		"none" 
+	"info"			"mega gun pack" 
 }
