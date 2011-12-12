@@ -22,7 +22,7 @@ end
  SWEP.FiresUnderwater = true
  SWEP.Weight = 1
  SWEP.DrawCrosshair = true
- SWEP.Category = "Shadow-Guns"
+ SWEP.Category = "Shadow-weapon"
  SWEP.DrawAmmo = true
  SWEP.ReloadSound = Sound("Weapon_Pistol.Single")
  SWEP.Instructions = "TRUCKER"
