@@ -4,17 +4,17 @@ if ( SERVER ) then
 	SWEP.HoldType			= "ar2" 
 end
 if ( CLIENT ) then
- SWEP.PrintName = "SuperSMG"
+ SWEP.PrintName = "Superpistol"
  SWEP.Author = "gamerred"
- SWEP.Slot = 3
+ SWEP.Slot = 2
  SWEP.SlotPos = 2
 	SWEP.IconLetter			= "b"
- killicon.AddFont( "weapon_ak47", "CSKillIcons", SWEP.IconLetter, Color( 255, 80, 0, 255 ) )
+ killicon.AddFont( "weapon_pistol", "CSKillIcons", SWEP.IconLetter, Color( 255, 80, 0, 255 ) )
 end
  SWEP.AdminSpawnable = true
  SWEP.ViewModelFOV = 64
- SWEP.ViewModel = "models/weapons/v_smg1.mdl"  
- SWEP.WorldModel = "models/weapons/w_smg1.mdl"
+ SWEP.ViewModel = "models/weapons/v_pistol.mdl"  
+ SWEP.WorldModel = "models/weapons/w_pistol.mdl"
  SWEP.AutoSwitchTo = false
  SWEP.HoldType = "smg"
  SWEP.Spawnable = true
