@@ -4,8 +4,8 @@ if ( SERVER ) then
 	SWEP.HoldType			= "ar2" 
 end
 if ( CLIENT ) then
- SWEP.PrintName = "TRUCKER"
- SWEP.Author = "TRUCKERwith help of TRUCKERS  SWEP Creator"
+ SWEP.PrintName = "SuperPistol"
+ SWEP.Author = "gamerred"
  SWEP.Slot = 2
  SWEP.SlotPos = 1
 	SWEP.IconLetter			= "b"
@@ -22,7 +22,7 @@ end
  SWEP.FiresUnderwater = true
  SWEP.Weight = 1
  SWEP.DrawCrosshair = true
- SWEP.Category = "SWEPs-created-with-TRUCKERs-SWEP-Creator"
+ SWEP.Category = "Shadow-Guns"
  SWEP.DrawAmmo = true
  SWEP.ReloadSound = Sound("Weapon_Pistol.Single")
  SWEP.Instructions = "TRUCKER"
