@@ -41,12 +41,12 @@ end
  SWEP.Primary.Recoil = 0
  SWEP.Primary.Delay = 1
  SWEP.Primary.Force = 10000
- SWEP.Secondary.NumbShots = 20
+ SWEP.Secondary.NumbShots = 1
  SWEP.Secondary.Force = 0
  SWEP.Secondary.Spread = 0
  SWEP.Secondary.Sound = Sound("Weapon_Pistol.Single")
  SWEP.Secondary.DefaultClip = 600
- SWEP.Secondary.Automatic = true
+ SWEP.Secondary.Automatic = false
  SWEP.Secondary.Ammo = "pistol"
  SWEP.Secondary.Recoil = 0
  SWEP.Secondary.Delay = 1
