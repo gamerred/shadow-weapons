@@ -1,13 +1,13 @@
- // TRUCKERS  SWEP CREATOR PROGRAM WAS USED FOR THIS WWW.GOODFRIENDS.CO.NR 
+ // Shadow-weapons
 if ( SERVER ) then
 	AddCSLuaFile( "shared.lua" )
-	SWEP.HoldType			= "ar2" 
+	SWEP.HoldType			= "melee" 
 end
 if ( CLIENT ) then
- SWEP.PrintName = "SuperPistol"
+ SWEP.PrintName = "Crowbar"
  SWEP.Author = "gamerred"
- SWEP.Slot = 2
- SWEP.SlotPos = 1
+ SWEP.Slot = 1
+ SWEP.SlotPos = 5
 	SWEP.IconLetter			= "b"
  killicon.AddFont( "weapon_ak47", "CSKillIcons", SWEP.IconLetter, Color( 255, 80, 0, 255 ) )
 end
@@ -24,7 +24,7 @@ end
  SWEP.DrawCrosshair = true
  SWEP.Category = "Shadow-weapon"
  SWEP.DrawAmmo = true
- SWEP.ReloadSound = Sound("Weapon_Pistol.Single")
+ SWEP.ReloadSound = Sound("Weapon_Crowbar.Reload")
  SWEP.Instructions = "gamerred"
  SWEP.Contact = "gamerred"
  SWEP.Purpose = "gamerred"
