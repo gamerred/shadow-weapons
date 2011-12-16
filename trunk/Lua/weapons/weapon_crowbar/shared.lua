@@ -7,7 +7,7 @@ if ( CLIENT ) then
  SWEP.PrintName = "Crowbar"
  SWEP.Author = "gamerred"
  SWEP.Slot = 1
- SWEP.SlotPos = 5
+ SWEP.SlotPos = 1
 	SWEP.IconLetter			= "b"
  killicon.AddFont( "weapon_ak47", "CSKillIcons", SWEP.IconLetter, Color( 255, 80, 0, 255 ) )
 end
