@@ -1,4 +1,4 @@
- // TRUCKERS  SWEP CREATOR PROGRAM WAS USED FOR THIS WWW.GOODFRIENDS.CO.NR 
+ // Shadow-Weapons was made by killer124n the leader of shadow dragoons
 if ( SERVER ) then
 	AddCSLuaFile( "shared.lua" )
 	SWEP.HoldType			= "ar2" 
