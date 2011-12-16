@@ -30,13 +30,13 @@ end
  SWEP.Purpose = "gamerred"
  SWEP.base = "weapon_base"
  SWEP.Primary.Sound = Sound("Weapon_SMG1.Single")
- SWEP.Primary.Damage = 1000
- SWEP.Primary.TakeAmmo = 0
+ SWEP.Primary.Damage = 100000
+ SWEP.Primary.TakeAmmo = 1
  SWEP.Primary.ClipSize = 9999999
  SWEP.Primary.Ammo = "smg1"
  SWEP.Primary.DefaultClip = 999999
  SWEP.Primary.Spread = 0
- SWEP.Primary.NumbShots = 40
+ SWEP.Primary.NumbShots = 5
  SWEP.Primary.Automatic = true
  SWEP.Primary.Recoil = 0
  SWEP.Primary.Delay = 1
